@@ -5,5 +5,6 @@ public class StudentNames {
         // System.out.println("Your Name - SECTION");
         // Example:
         // System.out.println("Juam Dela Cruz - BSIT 2C");
+        // System.out.println("Kennedy Artiaga - BSIT 2D");
     }
 }
