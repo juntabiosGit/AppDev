@@ -26,7 +26,7 @@ Student should clone their forked repository using:
 git clone https://github.com/THEIR_USERNAME/AppDev.git
 cd AppDev
 
-**5. The student Collaborators Add Upstream Remote**
+**5. The student Collaborators will Add Upstream Remote**
 To keep their fork in sync with your repository:
 git remote add upstream https://github.com/JUNTABIOSGIT/AppDev.git
 
