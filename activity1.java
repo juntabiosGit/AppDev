@@ -10,5 +10,6 @@ public class StudentNames {
         // Example:
         // System.out.println("Juan Cruz - BSIT 2C");
         // System.out.println("Stefany Domingo Tapia - BSIT 2D");
+        System.out.println("Stefany Domingo Tapia - BSIT 2D");
     }
 }
